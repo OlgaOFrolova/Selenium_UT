@@ -3,4 +3,3 @@
 
 ![](https://github.com/OlgaOFrolova/Selenium_UT/blob/main/Sert1.jpg)
 
-https://github.com/OlgaOFrolova/Selenium_UT/blob/main/Sert1.jpg
